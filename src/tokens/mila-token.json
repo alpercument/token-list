@@ -1,0 +1,11 @@
+{
+  "name": "Mila Token",
+  "symbol": "MILA",
+  "description": "Mila is a meme token on Solana.",
+  "image": "https://raw.githubusercontent.com/alpercument/Mila-token/main/logo.png",
+  "twitter": "https://twitter.com/TokenMila19460",
+  "telegram": "https://t.me/milatoken",
+  "chainId": 101,
+  "address": "5NW1QK7s1TwthffxdP3YLnEGobq12DXmQvUVPDB5p9xw",
+  "decimals": 9
+}
