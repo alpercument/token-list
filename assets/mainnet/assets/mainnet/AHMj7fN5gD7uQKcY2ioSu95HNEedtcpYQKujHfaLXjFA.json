@@ -1,0 +1,12 @@
+{
+  "name": "Soie",
+  "symbol": "SOIE",
+  "description": "Soie is a cute and classy token blending charm and style with Parisian elegance.",
+  "image": "https://raw.githubusercontent.com/alpercument/token-list/main/assets/mainnet/logo.png",
+  "decimals": 9,
+  "extensions": {
+    "website": "https://soie-token.github.io",
+    "twitter": "https://twitter.com/soietoken",
+    "telegram": "https://t.me/soietoken"
+  }
+}
