@@ -1,0 +1,13 @@
+{
+  "name": "Mila",
+  "symbol": "MILA",
+  "decimals": 9,
+  "mint": "5NW1QK8YW2ZdJQgnPjar5w1seVfmZRNbUGU4vEDBSH6j",
+  "logoURI": "https://raw.githubusercontent.com/alpercument/Mila-token/main/mila_logo_256.png",
+  "tags": ["meme", "community", "solana"],
+  "extensions": {
+    "website": "https://mila-token.github.io",
+    "twitter": "https://twitter.com/milaofficialsol",
+    "telegram": "https://t.me/milaofficialsol"
+  }
+}
