@@ -1,0 +1,10 @@
+{
+  "chainId": 101,
+  "address": "5NW1QK7s1TwthffxdP3YLnEGobq12DXmQvUVPDB5p9xw",
+  "symbol": "MILA",
+  "name": "Mila Token",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/alpercurment/assets/main/mila/logo.png",
+  "tags": ["utility-token", "meme"]
+}
+ 
